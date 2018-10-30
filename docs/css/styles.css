@@ -1,0 +1,88 @@
+body {
+    font-family: Helvetica, "Helvetica Neue", SansSerif;
+}
+
+#wrapper {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#menu {
+    width: 368px;
+    height: 80px;
+    background-color: antiquewhite;
+    line-height: 80px;
+
+}
+#logo {
+    width: 592px;
+}
+
+#menu li {
+    display: inline;
+}
+
+#banner {
+    height: 570px;
+    background-image: url("‪C:\Users\admin\WebstormProjects\prac4\docs\images\happy-people.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#hero-text {
+    width: 367px;
+    position: relative;
+    background-color: white;
+    top: 50px;
+    left: 100px;
+}
+
+#content {
+    width: 544px;
+    background-color: green;
+    padding-left: 24px;
+    padding-right: 24px;
+    line-height: 27px;
+}
+
+#sidebar {
+    width: 368px;
+    background-color: chocolate;
+
+}
+#footer {
+    background-color: bisque;
+}
+
+#panel3 {
+    background-color: green;
+}
+
+.std-padding {
+    padding-left: 31px;
+    padding-right: 31px;
+}
+
+.marginzero{
+    margin: 0px;
+}
+
+.borderThin {
+    border: 1px solid black;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.clear-fix {
+    clear:both;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.panel {
+    width: 256px;
+}
